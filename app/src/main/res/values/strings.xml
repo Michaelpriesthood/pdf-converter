@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pdf Converter</string>
+    <string name="page_title">Pdf Converter</string>
+    <string name="label">Enter your text to convert</string>
+    <string name="save_as_pdf">Save as Pdf</string>
+    <string name="save_icon">save icon</string>
+</resources>
